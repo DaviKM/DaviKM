@@ -1,62 +1,68 @@
-<h2 data-importer="text" align="left">oi eu sou o davi</h2>
+<h1 align="center">👋 Davi Koucher Machado</h1>
 
-###
+<p align="center">Desenvolvimento Fullstack | APIs & Conteinerização</p>
 
-<div data-importer="stats" align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=davikm&show_icons=true&theme=material-palenight&hide_border=true"/>
-  <img src="https://raw.githubusercontent.com/DaviKM/DaviKM/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCO-FULLSTACK-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/INTERESSE-DATA%20SCIENCE-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/INTERESSE-MACHINE%20LEARNING-555555?style=for-the-badge" /> <br>
+  <img src="https://img.shields.io/badge/ESTUDANDO-REACT-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESTUDANDO-MOBILE-2ea44f?style=for-the-badge" />
+</p>
 
-###
+---
 
-<img data-importer="image" align="right" height="150" src="https://media1.tenor.com/m/VUmWIOUhWcAAAAAd/comendo-vextre.gif"  />
+### 🧑‍💻 Perfil Profissional
 
-###
+Desenvolvedor(a) com foco em programação fullstack, desenvolvimento de APIs, conteinerização com Docker e ambientes Linux. Interesse crescente em Data Science e Machine Learning, além de estudos em andamento em React e desenvolvimento mobile.
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-</div>
+---
 
-###
+### 🎵 Tecnologias & Ferramentas
 
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/davikoucher/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+**💻 Linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**🌐 Frontend & Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**🐳 Conteinerização & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+**🐧 Sistemas**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**📱 Em Estudo**
+
+![Mobile](https://img.shields.io/badge/Desenvolvimento%20Mobile-3DDC84?style=flat&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=DaviKM&show_icons=true&theme=material-palenight&hide_border=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DaviKM&layout=compact&theme=material-palenight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/davikoucher/">
+    <img src="https://img.shields.io/badge/LinkedIn-Davi%20Koucher-2ea44f?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://gitlab.com/davikoucher" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
-  </a>
-  <a href="mailto:davikmach@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/DaviKM/DaviKM/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/koucher">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=8ofa4wnsfs7gvnywnikt9pgvl&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+</p>
